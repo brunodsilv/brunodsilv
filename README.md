@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Bruno Soares
+# 😎 Bruno Soares
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Bruno da Silva Soares, tenho 33 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER.
 
