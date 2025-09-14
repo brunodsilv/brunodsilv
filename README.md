@@ -2,11 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno da Silva Soares, tenho 33 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER.
+👨‍💻 Em transição de carreira para área de tecnologia. <br>
+📚 Graduando em Análise e Desenvolvimento de Sistema. <br>
+🚀 Proativo e dedicado <br>
+✨ Buscando construir uma carreira sólida e crescer junto com a tecnologia.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠 Linguagens e Tecnologias
 
 <img 
     align="left" 
